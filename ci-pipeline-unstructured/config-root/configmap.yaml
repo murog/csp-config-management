@@ -4,4 +4,4 @@ metadata:
   name: super-secret
   namespace: default
 data:
-  private_key: sensitive data goes here
+  private_key: super sensitive data goes here
